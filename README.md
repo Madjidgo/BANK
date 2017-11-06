@@ -1,16 +1,2 @@
-# carHandle
-PHP project (POO MVC CRUD) Car Handle
-The project.
-Create a vehicle management application. This very basic application will:
-- See all vehicles
-- See a vehicle in detail
-- Add a vehicle
-- Delete a vehicle
-- Modify a vehicle
-needs :
-- An abstract vehicle class
-- Car, Truck, Motorcycle classes that inherit the Vehicle class
-- Home page:
-• displays all vehicles present in bdd
-• a button that allows the addition of vehicles
-• for each vehicle, a button to view, edit and delete the vehicle
+# Bank
+Evalutaion 2- Bank accounts -You must create an application that allows the user to create and manage bank accounts.The basic features (therefore mandatory) are simple: • Create a new bank account (with minimum one id, one name and a default amount) • View accounts • Delete an account • Make cash payments on accounts (via a form) • Make withdrawals • Make transfers from one account to another
